@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>note_logic</title>
+    <script>
+      let date = new Date();
+      let month = date.getMonth() + 1;
+
+      // 12, 1, 2 겨울
+      // 3, 4, 5  봄
+      // 6, 7, 8  여름
+      // 9, 10 11 가을
+
+      switch (true) {
+        case 3 <= month && month <= 5:
+          alert('봄 입니다.');
+          break;
+        case 6 <= month && month <= 8:
+          alert('여름입니다.');
+          break;
+        case 9 <= month && month <= 11:
+          alert('가을입니다.');
+          break;
+        case month == 12 || (1 <= month && month && month <= 2):
+          alert('겨울입니다');
+        default:
+          break;
+      }
+    </script>
+  </head>
+  <body>
+    <h1>note_logic</h1>
+  </body>
+</html>
