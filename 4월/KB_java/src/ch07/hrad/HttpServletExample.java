@@ -7,6 +7,6 @@ public class HttpServletExample {
     }
 
     public  static void method(HttpServlet servlet){
-
+        servlet.service();
     }
 }
