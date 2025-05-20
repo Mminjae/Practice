@@ -6,5 +6,3 @@
 ### [체크리스트 이동](https://github.com/Mminjae/Practice/blob/main/4%EC%9B%94/README.md)
 ##  5월 ( SQL )
 ### [체크리스트 이동](https://github.com/Mminjae/Practice/blob/main/5%EC%9B%94/README.md)
-
-🔧월별 문제풀이 진행도 파일 첨부완료🔧
