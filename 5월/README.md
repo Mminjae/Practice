@@ -15,6 +15,6 @@
 |"                                 | 06 인덱스, 사용자 관리                        |  ✅  |      | 06_mysql(기본)        | 06_mysql(심화)          |
 |"                                 | 07 Java 연동 JDBC 프로그래밍                 |  ✅  |      | 07_mysql(기본)        | 07_mysql(심화)          |
 |"                                 | 08 Java 연동 JDBC 프로그래밍 - Travel        |  ✅  |      | 08_mysql(기본)        | 08_mysql(심화)          |
-| 02 NoSQL 기반 MongoDB          | 01 MongoDB                                    |    |      | 01_mongo(기본)        | 01_mongo(심화)          |
+| 02 NoSQL 기반 MongoDB          | 01 MongoDB                                    |  ✅  |      | 01_mongo(기본)        | 01_mongo(심화)          |
 |"                                 | 02 몽고DB Java 연동                           |    |      | 02_mongo(기본)        | 02_mongo(심화)          |
 
