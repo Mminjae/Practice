@@ -10,7 +10,7 @@
 | | 02 JSP의 이해 |  |  |
 | | 03 서블릿 심화 |  |  |
 | | 04 요청 포워딩, EL, JSTL |  |  |
-| | 05 FrontController | ☐ | ☐ |
+| | 05 FrontController |  |  |
 | **02 Spring Framework를 활용한 애플리케이션 개발** | 01 Spring 이해 |  |  |
 | | 02 Spring MVC |  |  |
 | | 03 Spring-MyBatis 연동 |  |  |
