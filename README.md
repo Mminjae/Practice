@@ -1,7 +1,7 @@
 # 📜KB IT`s your Life 실습과제 구성
 
 ##  3월 ( HTML, CSS, JS, Vue )
-### [체크리스트 이동](https://github.com/Mminjae/Practice/blob/main/3%EC%9B%94/README.md)
+### [체크리스트 이동](https://github.com/Mminjae/Practice/blob/404528fece4f74aee68bd1eec57899c1670df92b/3%EC%9B%94%20(%20HTML%2C%20CSS%2C%20JS%2C%20Vue%20)/README.md)
 <details>
   <summary>✅실습 체크 리스트✅</summary>
   # 실습 체크 리스트
@@ -34,7 +34,7 @@
 </details>
 
 ##  4월 ( Java ) 
-### [체크리스트 이동](https://github.com/Mminjae/Practice/blob/main/4%EC%9B%94/README.md)
+### [체크리스트 이동](https://github.com/Mminjae/Practice/blob/404528fece4f74aee68bd1eec57899c1670df92b/4%EC%9B%94%20(%20Java%20)/README.md)
 <details>
   <summary>✅실습 체크 리스트✅</summary>
 # 실습 체크 리스트
@@ -60,7 +60,7 @@
 </details>
 
 ##  5월 ( SQL )
-### [체크리스트 이동](5월 ( SQL )/README.md)
+### [체크리스트 이동](https://github.com/Mminjae/Practice/blob/404528fece4f74aee68bd1eec57899c1670df92b/5%EC%9B%94%20(%20SQL%20)/README.md)
 <details>
   <summary>✅실습 체크 리스트✅</summary>
 # 실습 체크 리스트
@@ -85,7 +85,7 @@
 </details>
 
 ##  6월 ( JSP & Servlet )
-### [체크리스트 이동](https://github.com/Mminjae/Practice/blob/b2f51a3950f74b7f3c409670cb2e19724ef36121/6%EC%9B%94%20(%20JSP%20%26%20Servlet%20)/Readme.md)
+### [체크리스트 이동](https://github.com/Mminjae/Practice/tree/404528fece4f74aee68bd1eec57899c1670df92b/6%EC%9B%94%20(%20JSP%20%26%20Servlet%20))
 <details>
   <summary>✅실습 체크 리스트✅</summary>
 # 실습 체크 리스트
@@ -104,7 +104,7 @@
 </details>
 
 ##  6월 ( Spring )
-### [체크리스트 이동](https://github.com/Mminjae/Practice/blob/main/6%EC%9B%94%20(Spring)/Readme.md)
+### [체크리스트 이동](https://github.com/Mminjae/Practice/blob/404528fece4f74aee68bd1eec57899c1670df92b/6%EC%9B%94%20(Spring)/Readme.md)
 <details>
   <summary>✅실습 체크 리스트✅</summary>
   # 실습 체크 리스트
