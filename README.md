@@ -5,7 +5,7 @@
 ##  4월 ( Java ) 
 ### [체크리스트 이동](https://github.com/Mminjae/Practice/blob/main/4%EC%9B%94/README.md)
 ##  5월 ( SQL )
-### [체크리스트 이동](https://github.com/Mminjae/Practice/blob/main/5%EC%9B%94/README.md)
+### [체크리스트 이동](5월 ( SQL )/README.md)
 ##  6월 ( JSP & Servlet )
 ### [체크리스트 이동](https://github.com/Mminjae/Practice/blob/b2f51a3950f74b7f3c409670cb2e19724ef36121/6%EC%9B%94%20(%20JSP%20%26%20Servlet%20)/Readme.md)
 ##  6월 ( Spring )
