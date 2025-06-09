@@ -58,6 +58,7 @@
 |"                                      | 12 스트림 요소 처리                         | ✅ | ✅| 12_java(기본)        | 12_java(심화)        |
 |"                                      | 13 데이터 입출력                             | ✅ |  | 13_java(기본)        | 13_java(심화)        |
 </details>
+
 ##  5월 ( SQL )
 ### [체크리스트 이동](5월 ( SQL )/README.md)
 <details>
@@ -82,6 +83,7 @@
 | 02 NoSQL 기반 MongoDB          | 01 MongoDB                                    |  ✅  |      | 01_mongo(기본)        | 01_mongo(심화)          |
 |"                                 | 02 몽고DB Java 연동                           | ✅   |      | 02_mongo(기본)        | 02_mongo(심화)          |
 </details>
+
 ##  6월 ( JSP & Servlet )
 ### [체크리스트 이동](https://github.com/Mminjae/Practice/blob/b2f51a3950f74b7f3c409670cb2e19724ef36121/6%EC%9B%94%20(%20JSP%20%26%20Servlet%20)/Readme.md)
 <details>
@@ -100,6 +102,7 @@
 |                                                | 04 요청 포워딩, EL, JSTL | ✅   |      |
 |                                                | 05 FrontController       |      |      |
 </details>
+
 ##  6월 ( Spring )
 ### [체크리스트 이동](https://github.com/Mminjae/Practice/blob/main/6%EC%9B%94%20(Spring)/Readme.md)
 <details>
