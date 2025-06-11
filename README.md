@@ -4,7 +4,7 @@
 
 ## 3월 ( HTML, CSS, JS, Vue )
 
-### [체크리스트 이동](https://github.com/Mminjae/Practice/tree/main/3%EC%9B%94%20(%20HTML%2C%20CSS%2C%20JS%2C%20Vue%20))
+### [체크리스트 이동](<https://github.com/Mminjae/Practice/tree/main/3%EC%9B%94%20(%20HTML%2C%20CSS%2C%20JS%2C%20Vue%20)>)
 
 <details>
   <summary>✅실습 체크 리스트</summary>
@@ -42,7 +42,7 @@
 
 ## 4월 ( Java )
 
-### [체크리스트 이동](https://github.com/Mminjae/Practice/tree/main/4%EC%9B%94%20(%20Java%20))
+### [체크리스트 이동](<https://github.com/Mminjae/Practice/tree/main/4%EC%9B%94%20(%20Java%20)>)
 
 <details>
   <summary>✅실습 체크 리스트</summary>
@@ -73,7 +73,7 @@
 
 ## 5월 ( SQL )
 
-### [체크리스트 이동](https://github.com/Mminjae/Practice/tree/main/5%EC%9B%94%20(%20SQL%20))
+### [체크리스트 이동](<https://github.com/Mminjae/Practice/tree/main/5%EC%9B%94%20(%20SQL%20)>)
 
 <details>
   <summary>✅실습 체크 리스트</summary>
@@ -102,7 +102,7 @@
 
 ## 6월 ( JSP & Servlet )
 
-### [체크리스트 이동](https://github.com/Mminjae/Practice/tree/main/6%EC%9B%94%20(%20JSP%20%26%20Servlet%20))
+### [체크리스트 이동](<https://github.com/Mminjae/Practice/tree/main/6%EC%9B%94%20(%20JSP%20%26%20Servlet%20)>)
 
 <details>
   <summary>✅실습 체크 리스트</summary>
@@ -126,7 +126,7 @@
 
 ## 6월 ( Spring )
 
-### [체크리스트 이동](https://github.com/Mminjae/Practice/tree/main/6%EC%9B%94%20(Spring))
+### [체크리스트 이동](<https://github.com/Mminjae/Practice/tree/main/6%EC%9B%94%20(Spring)>)
 
 <details>
   <summary>✅실습 체크 리스트</summary>
@@ -139,7 +139,8 @@
 | **02 Spring Framework를 활용한 애플리케이션 개발** | 기본 | 심화 |
 | -------------------------------------------------- | ---- | ---- |
 | 01 Spring 이해                                     | ✅   |      |
-| 02 Spring MVC                                      |  ✅   |   ✅  |
+| 02-1 Spring MVC                                    | ✅   | ✅   |
+| 02-2 Spring MVC                                    | ✅   |      |
 | 03 Spring-MyBatis 연동                             |      |      |
 | 04 Spring 기본 게시판                              |      |      |
 | 05 Spring 기본 게시판, 파일 업로드                 |      |      |
