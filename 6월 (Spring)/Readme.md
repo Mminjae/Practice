@@ -9,7 +9,7 @@
 | 01 Spring 이해                                     | ✅   |      |
 | 02-1 Spring MVC                                    | ✅   | ✅   |
 | 02-2 Spring MVC                                    | ✅   |      |
-| 03 Spring-MyBatis 연동                             |      |      |
+| 03 Spring-MyBatis 연동                             | ✅   |      |
 | 04 Spring 기본 게시판                              |      |      |
 | 05 Spring 기본 게시판, 파일 업로드                 |      |      |
 | 06 Rest                                            |      |      |
